@@ -1,1 +1,3 @@
 ## DuetWebControl Modifications / Overview
+
+No changes made to the DWC interface yet. Eventually there might be some plugins here...
